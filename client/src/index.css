@@ -1,0 +1,6 @@
+@import 'daisyui/dist/full.css';
+@import 'tailwindcss/tailwind.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
